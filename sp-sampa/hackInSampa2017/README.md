@@ -1,11 +1,15 @@
 ## HackInSampa 2017
 Promovido pela *Câmara Municipal de São Paulo*, site oficial http://hackinsampa.org
 
-Premiação: os 3 times mais bem colocados na entrega do final de semana ganham R$ 1.000,00 (Mil Reais) + 1 mês de apoio para refinar o projeto até a entrega final no dia 06/07.
-
-Na entrega final o prêmio sera de R$ 10.000,00 (Dez Mil Reais) para o time mais bem colocado, R$ 2.500,00 (Dois Mil e Quinhentos Reais) para o segundo time mais bem colocado e o terceiro lugar leva R$ 1.000,00.
-
 Tema: **Como prevenir a corrupção e combater o desperdício de recursos públicos**
+
+Premiação: os 3 times mais bem colocados na entrega do final de semana ganham R$ 1.000,00 (Mil Reais) + 1 mês de apoio para refinar o projeto até a entrega final no dia 06/07.  Na entrega final o prêmio sera de R$ 10.000,00 (Dez Mil Reais) para o time mais bem colocado, R$ 2.500,00 (Dois Mil e Quinhentos Reais) para o segundo time mais bem colocado e o terceiro lugar leva R$ 1.000,00.
+
+## RESULTADOS
+
+... Ver [grupos.csv](grupos.csv) com a formação e tema dos grupos participantes ([ou aqui para editar](https://docs.google.com/spreadsheets/d/1ugwE3vgpZ3NO0sShTNPJRVq6KouiOAQsaQI9wd-VxL0/)).
+
+## PROGRAMAÇÃO 
 
 Endereço: Câmara Municipal de São Paulo - Viaduto Jacareí, 100 - Bela Vista - São Paulo
 
@@ -24,7 +28,7 @@ Domingo:
 * 11h as 15h (Desenvolvimento de apresentação / Ensaio de Pitch)
 * 15h:30 - Apresentações
 
-## Links e dados
+## LINKS E DADOS
 
 Abaixo alguns links para referencia: 
 
@@ -34,7 +38,7 @@ Abaixo alguns links para referencia:
 
 * Serenata do Amor (Case de sucesso contra a corrupção): https://serenatadeamor.org/
 
-## Referencia de dados abertos disponibilizados para o evento: 
+### Referencia de dados abertos disponibilizados para o evento: 
 
 As séries de dados abertos da CMSP podem ser encontradas em <br/>http://www.camara.sp.gov.br/transparencia/dados-abertos/dados-disponibilizados-em-formato-aberto/
 
@@ -57,7 +61,5 @@ A partir dessa página podem ser obtidos:
 
  
 A Prefeitura publica um Catálogo de Bases de Dados em http://transparencia.prefeitura.sp.gov.br/administracao/Paginas/cmbd.aspx
-
- 
 
 A Prefeitura também publica diversas séries de dados em formatos CSV e XSLX em:http://dados.prefeitura.sp.gov.br/
