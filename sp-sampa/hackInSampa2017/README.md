@@ -1,23 +1,30 @@
 ## HackInSampa 2017
-Câmara Municipal de São Paulo, http://hackinsampa.org
+Promovido pela *Câmara Municipal de São Paulo*, site oficial http://hackinsampa.org
 
-Horários e programação: 
+Premiação: os 3 times mais bem colocados na entrega do final de semana ganham R$ 1.000,00 (Mil Reais) + 1 mês de apoio para refinar o projeto até a entrega final no dia 06/07.
 
-Sábado: 
+Na entrega final o prêmio sera de R$ 10.000,00 (Dez Mil Reais) para o time mais bem colocado, R$ 2.500,00 (Dois Mil e Quinhentos Reais) para o segundo time mais bem colocado e o terceiro lugar leva R$ 1.000,00.
 
-09h as 13h (Abertura do evento, montagem das equipes e oficinas de abertura)
-12h as 16h (Definição e discussão sobre o projeto) 
-15h as 19h (Desenvolvimento do projeto)
-18h as 22h (Desenvolvimento do projeto)
+Tema: **Como prevenir a corrupção e combater o desperdício de recursos públicos**
 
-Domingo
+Endereço: Câmara Municipal de São Paulo - Viaduto Jacareí, 100 - Bela Vista - São Paulo
 
-08h as 12h (Desenvolvimento de apresentação / Ensaio de Pitch)
-11h as 15h (Desenvolvimento de apresentação / Ensaio de Pitch)
+***Horários e programação:** 
 
-15h:30 - Apresentações
+Sábado 2017-06-03: 
 
-Os horários acima representam os momentos de chegada / troca dos mentores (Sáb 09h, 12h, 15h, 18h e Dom 08h e 11h) , nestes horários vamos realizar um alinhamento sobre como o evento está acontecendo e como o mentor pode ajudar os times.
+* 09h as 13h (Abertura do evento, montagem das equipes e oficinas de abertura)
+* 12h as 16h (Definição e discussão sobre o projeto) 
+* 15h as 19h (Desenvolvimento do projeto)
+* 18h as 22h (Desenvolvimento do projeto)
+
+Domingo:
+
+* 08h as 12h (Desenvolvimento de apresentação / Ensaio de Pitch)
+* 11h as 15h (Desenvolvimento de apresentação / Ensaio de Pitch)
+* 15h:30 - Apresentações
+
+## Links e dados
 
 Abaixo alguns links para referencia: 
 
