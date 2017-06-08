@@ -9,6 +9,8 @@ Premiação: os 3 times mais bem colocados na entrega do final de semana ganham 
 
 ... Ver [grupos.csv](grupos.csv) com a formação e tema dos grupos participantes ([ou aqui para editar](https://docs.google.com/spreadsheets/d/1ugwE3vgpZ3NO0sShTNPJRVq6KouiOAQsaQI9wd-VxL0/)).
 
+... Fotos em https://www.facebook.com/horizonfour
+
 ## PROGRAMAÇÃO 
 
 Endereço: Câmara Municipal de São Paulo - Viaduto Jacareí, 100 - Bela Vista - São Paulo
