@@ -3,9 +3,9 @@ Promovido pela *Câmara Municipal de São Paulo*, site oficial http://hackinsamp
 
 Tema: **Como prevenir a corrupção e combater o desperdício de recursos públicos**
 
-Matéria no blog da OKBr: ??
-
 Premiação: os 3 times mais bem colocados na entrega do final de semana ganham R$ 1.000,00 (Mil Reais) + 1 mês de apoio para refinar o projeto até a entrega final no dia 06/07.  Na entrega final o prêmio sera de R$ 10.000,00 (Dez Mil Reais) para o time mais bem colocado, R$ 2.500,00 (Dois Mil e Quinhentos Reais) para o segundo time mais bem colocado e o terceiro lugar leva R$ 1.000,00.
+
+Mais informaçes, [matéria no blog da OKBr](https://br.okfn.org/2017/06/09/okbr-participa-do-hack-in-sampa-na-camara-municipal-de-sao-paulo/).
 
 ## RESULTADOS
 
