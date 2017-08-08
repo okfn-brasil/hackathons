@@ -9,4 +9,8 @@ ou [neste outro](https://www.fiocruzbrasilia.fiocruz.br/fiocruz-organiza-feira-d
 
 O formulário para a inscrição pode ser acessado por estas páginas ou [por este link](https://fs.unb.br/forms/index.php/861368?lang=pt-BR)
 
+## Local
 
+SENAI CIMATEC - av. Orlando Gomes, 1845. CEP 41650-010. Instalações na frente do Prédio 3, no Pavilhão de Feiras.
+
+Dez minutos do areporto.
