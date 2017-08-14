@@ -7,6 +7,8 @@ Premiação: os 3 times mais bem colocados na entrega do final de semana ganham 
 
 Mais informaçes, [matéria no blog da OKBr](https://br.okfn.org/2017/06/09/okbr-participa-do-hack-in-sampa-na-camara-municipal-de-sao-paulo/).
 
+Na imprensa: [estadao.com.br 2017-08-14](http://sao-paulo.estadao.com.br/noticias/geral,hackers-do-bem-no-combate-a-corrupcao,70001935116), ...
+
 ## RESULTADOS
 
 ... Ver [grupos.csv](grupos.csv) com a formação e tema dos grupos participantes ([ou aqui para editar](https://docs.google.com/spreadsheets/d/1ugwE3vgpZ3NO0sShTNPJRVq6KouiOAQsaQI9wd-VxL0/)).
